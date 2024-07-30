@@ -1,4 +1,4 @@
-![logo](https://github.com/Aazaan19/Aazaan19/blob/main/Gowhar%20Ahmad%20Dar%20(1).png)
+![logo](https://github.com/Aazaan19/Aazaan19/blob/main/banner%20for%20insta.png)
 <h1 align="center">Hi 👋, I'm Gowhar Ahmad</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
