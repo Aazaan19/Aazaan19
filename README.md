@@ -1,13 +1,13 @@
 ![logo](https://github.com/Aazaan19/Aazaan19/blob/main/banner%20for%20insta.png)
 <h1 align="center">Hi 👋, I'm Gowhar Ahmad</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
+<h3 align="center">A passionate Data Anayst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazaan19&label=Profile%20views&color=0e75b6&style=flat" alt="aazaan19" /> </p>
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **Python , MYSQL, C , Data Analysis**
+- 💬 Ask me about **Python , Power BI , SQL , C , Data Analysis**
 
 - 📫 How to reach me **gowharehmad45@gmail.com**
 
