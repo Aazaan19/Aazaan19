@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **Python , Power BI , SQL , C , Data Analysis**
+- 💬 Ask me about **Python , Power BI , SQL , Excel, C , Data Analysis**
 
 - 📫 How to reach me **gowharehmad45@gmail.com**
 
