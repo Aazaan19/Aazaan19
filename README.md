@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm GowHar Ahmad Dar</h1>
 <h3 align="center">About Me:</h3>
 <h3 align="center">Aspiring Data Analyst Specializing in Transforming Big Data into Actionable Insights for Informed Business Decisions.</h3>
+
+<p align="center">
   <br>
   🚀 I love using Python and SQL to analyze data, create predictive models, and build data-driven solutions.
   <br>
@@ -11,6 +13,7 @@
   <br>
  An entry-level data scientist who is interested in building models for providing useful business insights.<br>
 </p>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazaan19&label=Profile%20views&color=0e75b6&style=flat" alt="aazaan19" /> </p>
@@ -50,4 +53,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.linkedin.com/in/gowhar-ahmad-dar/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.linkedin.com/in/gowhar-ahmad-dar/" /></a><a href="https://ko-fi.com/https://codebasics.io/portfolio/Gowhar-Ahmad-Dar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://codebasics.io/portfolio/Gowhar-Ahmad-Dar" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aazaan19&show_icons=true&locale=en" alt="aazaan19" /></p>
+<h3 align="center">GitHub Streak:</h3>
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aazaan1&theme=dark&hide_border=true" />
+</p>
