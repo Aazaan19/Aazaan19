@@ -55,5 +55,5 @@
 
 <h3 align="center">GitHub Streak:</h3>
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aazaan1&theme=dark&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aazaan19&theme=dark&hide_border=true" />
 </p>
