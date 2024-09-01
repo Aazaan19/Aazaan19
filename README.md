@@ -21,9 +21,6 @@
 - 💬 Ask me about **Python , Power BI , SQL , Excel, C ,Tableau, Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Gowhar-Ahmad-Dar](https://codebasics.io/portfolio/Gowhar-Ahmad-Dar)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DepquKDA0mEQn40qWph6Kqr9o1K09gWX/view?usp=sharing](https://drive.google.com/file/d/1DepquKDA0mEQn40qWph6Kqr9o1K09gWX/view?usp=sharing)
-
 - 📫 How to reach me **gowharehmad45@gmail.com**
 - My Portfolio https://codebasics.io/portfolio/Gowhar-Ahmad-Dar
 - ⚡ Fun fact **I am funny😊**
