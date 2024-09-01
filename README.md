@@ -3,8 +3,7 @@
 <h3 align="center">Aspiring Data Analyst Specializing in Transforming Big Data into Actionable Insights for Informed Business Decisions.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /
 >
-<p align="left"> <img src="[image](https://github.com/user-attachments/assets/45983e37-ad54-4aca-b7da-16fb4f7cc792)
-/?username=aazaan19&label=Profile%20views&color=0e75b6&style=flat" alt="aazaan19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aazaan19&label=Profile%20views&color=0e75b6&style=flat" alt="aazaan19" /> </p>
 
 - 🌱 I’m currently learning **Tableau**
 
