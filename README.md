@@ -1,7 +1,7 @@
 ![logo](https://github.com/Aazaan19/Aazaan19/blob/main/linked%20in%20banner.png)
 <h1 align="center">Hi 👋, I'm GowHar Ahmad Dar</h1>
 <h3 align="center">Aspiring Data Analyst Specializing in Transforming Big Data into Actionable Insights for Informed Business Decisions.</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/5bfeebf5-985e-446d-9fc2-1cf72c4292ce)
+<img align="right" alt="coding" width="400" src=(https://github.com/user-attachments/assets/5bfeebf5-985e-446d-9fc2-1cf72c4292ce)
 ">
 <p align="left"> <img src="[image](https://github.com/user-attachments/assets/45983e37-ad54-4aca-b7da-16fb4f7cc792)
 /?username=aazaan19&label=Profile%20views&color=0e75b6&style=flat" alt="aazaan19" /> </p>
